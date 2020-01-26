@@ -1,0 +1,27 @@
+<img class="header-image" src="images/image.jpg" alt="Buildings" />
+<div id="body">
+    <section id="content">
+
+        <article>
+
+            <h3>Login</h3>
+            <fieldset>
+                <legend><a class='' href='Registration'>New User? Register here!</a></legend>
+                <h3>Please check your username, password and user type!</h3>
+                <form action="Login" method="post">
+                    <p><label >username:</label>
+                        <input name="username" id="username" value="" type="text" /></p>
+                    <p><label >password:</label>
+                        <input name="password" id="password" value="" type="text" /></p>
+                    <p><label>userType:</label>
+                    </p>
+                    <select name="userType">
+                        <option value='customer'>Customer</option>
+                        <option value='retailer'>Store Manager</option>
+                        <option value='manager'>Salesman</option>
+                    </select>
+                    <p><input name="send" style="margin-left: 150px;" class="formbutton" value="Login" type="submit" /></p>
+                </form>
+            </fieldset>
+        </article>
+    </section>

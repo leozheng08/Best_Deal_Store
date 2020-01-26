@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+    <TVCatalog>
+        <TV id="TCL 43">
+            <name>TCL 43</name>
+            <price>100</price>
+            <image>TCL32S327.jpg</image>
+            <manufacturer>TCL</manufacturer>
+            <condition>New</condition>
+            <discount>30.0</discount>
+            <rebate>0.0</rebate>
+            <accessories>
+                <accessory>TCL32S327_HDMI_Cables</accessory>
+                <accessory>TCL32S327_Mounts</accessory>
+                <accessory>TCL32S327_Antennas</accessory>
+            </accessories>
+        </TV>
+        <TV id="Samsung - 55">
+            <name>Samsung - 55</name>
+            <price>200</price>
+            <image>SamsungUN55NU6900FXZA.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>50.0</discount>
+            <rebate>0.0</rebate>
+            <accessories>
+                <accessory>SamsungUN55NU6900FXZA_HDMI_Cables</accessory>
+                <accessory>SamsungUN55NU6900FXZA_Mounts</accessory>
+                <accessory>SamsungUN55NU6900FXZA_Antennas</accessory>
+            </accessories>
+        </TV>
+        <TV id="SamsungUN65RU7100FXZA">
+            <name>SamsungUN65RU7100FXZA</name>
+            <price>300</price>
+            <image>SamsungUN65RU7100FXZA.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>50.0</discount>
+            <rebate>0.0</rebate>
+            <accessories>
+                <accessory>SamsungUN65RU7100FXZA_HDMI_Cables</accessory>
+                <accessory>SamsungUN65RU7100FXZA_Mounts</accessory>
+                <accessory>SamsungUN65RU7100FXZA_Antennas</accessory>
+            </accessories>
+        </TV>
+        <TV id="Samsung - 65">
+            <name>Samsung - 65</name>
+            <price>400</price>
+            <image>SamsungUN65NU6900FXZA.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>50.0</discount>
+            <rebate>0.0</rebate>
+            <accessories>
+                <accessory>SamsungUN65NU6900FXZA_HDMI_Cables</accessory>
+                <accessory>SamsungUN65NU6900FXZA_Mounts</accessory>
+                <accessory>SamsungUN65NU6900FXZA_Antennas</accessory>
+            </accessories>
+        </TV>
+<!--        <TV id="InsigniaNS-50DF710NA19">-->
+<!--            <name>InsigniaNS-50DF710NA19</name>-->
+<!--            <price>299.99</price>-->
+<!--            <image>InsigniaNS-50DF710NA19.jpg</image>-->
+<!--            <manufacturer>Insignia</manufacturer>-->
+<!--            <condition>New</condition>-->
+<!--            <discount>50.0</discount>-->
+<!--            <accessories>-->
+<!--                <accessory>InsigniaNS-50DF710NA19_HDMI_Cables</accessory>-->
+<!--                <accessory>InsigniaNS-50DF710NA19_Mounts</accessory>-->
+<!--                <accessory>InsigniaNS-50DF710NA19_Antennas</accessory>-->
+<!--            </accessories>-->
+<!--        </TV>-->
+    </TVCatalog>
+
+    <SoundSystemCatalog>
+        <SoundSystem id="KlipschRSB-11">
+            <name>KlipschRSB-11</name>
+            <price>150</price>
+            <image>KlipschRSB-11.jpg</image>
+            <manufacturer>Klipsch</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <rebate>0.0</rebate>
+        </SoundSystem>
+        <SoundSystem id="LGSK4D">
+            <name>LGSK4D</name>
+            <price>250</price>
+            <image>LGSK4D.jpg</image>
+            <manufacturer>LG</manufacturer>
+            <condition>New</condition>
+            <discount>140.0</discount>
+            <rebate>10.0</rebate>
+        </SoundSystem>
+        <SoundSystem id="Samsung - Harmon Kardon 7.1.4">
+            <name>Samsung - Harmon Kardon 7.1.4</name>
+            <price>350</price>
+            <image>SamsungHW-R550ZA.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>80.0</discount>
+            <rebate>10.0</rebate>
+        </SoundSystem>
+        <SoundSystem id="SamsungHW-Q60R/ZA">
+            <name>SamsungHW-Q60R/ZA</name>
+            <price>450</price>
+            <image>SamsungHW-Q60RZA.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>80.0</discount>
+            <rebate>10.0</rebate>
+        </SoundSystem>
+        <SoundSystem id="Bose732522-1110">
+            <name>Bose732522-1110</name>
+            <price>550</price>
+            <image>Bose732522-1110.jpg</image>
+            <manufacturer>Bose</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <rebate>20.0</rebate>
+        </SoundSystem>
+    </SoundSystemCatalog>
+
+    <PhoneCatalog>
+        <Phone id="GoogleGA00655-US">
+            <name>FGoogleGA00655-US</name>
+            <price>110</price>
+            <image>GoogleGA00655-US.jpg</image>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>100.0</discount>
+            <rebate>0.0</rebate>
+        </Phone>
+        <Phone id="LG STYLO 4">
+            <name>LG STYLO 4</name>
+            <price>210</price>
+            <image>LG STYLO 4.jpg</image>
+            <manufacturer>LG</manufacturer>
+            <condition>New</condition>
+            <discount>200.0</discount>
+            <rebate>0.0</rebate>
+        </Phone>
+        <Phone id="RazerRZ35-0259UR10-R3U">
+            <name>RazerRZ35-0259UR10-R3U</name>
+            <price>310</price>
+            <image>RazerRZ35-0259UR10-R3U.jpg</image>
+            <manufacturer>Razer</manufacturer>
+            <condition>Refurbished</condition>
+            <discount>450.0</discount>
+            <rebate>0.0</rebate>
+        </Phone>
+        <Phone id="SamsungSM-G975UZKAXAA">
+            <name>SamsungSM-G975UZKAXAA</name>
+            <price>410</price>
+            <image>SamsungSM-G975UZKAXAA.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>50.0</discount>
+            <rebate>0.0</rebate>
+        </Phone>
+        <Phone id="AppleMT5C2LLA">
+            <name>AppleMT5C2LLA</name>
+            <price>510</price>
+            <image>AppleMT5C2LLA.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <rebate>0.0</rebate>
+        </Phone>
+    </PhoneCatalog>
+
+    <LaptopCatalog>
+        <Laptop id="GoogleGA00124-US">
+            <name>GoogleGA00124-US</name>
+            <price>130</price>
+            <image>GoogleGA00124-US.jpg</image>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <rebate>0.0</rebate>
+        </Laptop>
+        <Laptop id="HP15-DY0013DX">
+            <name>HP15-DY0013DX</name>
+            <price>230</price>
+            <image>HP15-DY0013DX.jpg</image>
+            <manufacturer>HP</manufacturer>
+            <condition>New</condition>
+            <discount>100.0</discount>
+            <rebate>0.0</rebate>
+        </Laptop>
+        <Laptop id="Lenovo 330S">
+            <name>Lenovo 330S</name>
+            <price>330</price>
+            <image>Lenovo81F5018EUS.jpg</image>
+            <manufacturer>Lenovo</manufacturer>
+            <condition>Refurbished</condition>
+            <discount>100.0</discount>
+            <rebate>0.0</rebate>
+        </Laptop>
+        <Laptop id="Lenovo 130">
+            <name>Lenovo 130</name>
+            <price>430</price>
+            <image>Lenovo81MV0001US.jpg</image>
+            <manufacturer>Lenovo</manufacturer>
+            <condition>New</condition>
+            <discount>50.0</discount>
+            <rebate>0.0</rebate>
+        </Laptop>
+        <Laptop id="HP11M-AP0013DX">
+            <name>HP11M-AP0013DX</name>
+            <price>530</price>
+            <image>HP11M-AP0013DX.jpg</image>
+            <manufacturer>HP</manufacturer>
+            <condition>New</condition>
+            <discount>100.0</discount>
+            <rebate>0.0</rebate>
+        </Laptop>
+    </LaptopCatalog>
+
+    <VoiceAssistantCatalog>
+        <VoiceAssistant id="GoogleGA00210-US">
+            <name>GoogleGA00210-US</name>
+            <price>10</price>
+            <image>GoogleGA00210-US.jpg</image>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <rebate>10.0</rebate>
+        </VoiceAssistant>
+        <VoiceAssistant id="GoogleHome">
+            <name>GoogleHome</name>
+            <price>20</price>
+            <image>ea_fifa.jpg</image>
+            <manufacturer>GoogleHome</manufacturer>
+            <condition>New</condition>
+            <discount>99.99</discount>
+            <rebate>0.0</rebate>
+        </VoiceAssistant>
+        <VoiceAssistant id="Acer Nitro 5">
+            <name>AmazonB073SQYXTW</name>
+            <price>30</price>
+            <image>AmazonB073SQYXTW.jpg</image>
+            <manufacturer>Amazon</manufacturer>
+            <condition>Refurbished</condition>
+            <discount>5.0</discount>
+            <rebate>10.0</rebate>
+        </VoiceAssistant>
+        <VoiceAssistant id="Amazon - Echo Dot (3rd Gen)">
+            <name>AmazonB07PDHSLM6</name>
+            <price>40</price>
+            <image>AmazonB07PDHSLM6.jpg</image>
+            <manufacturer>Amazon</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <rebate>0.0</rebate>
+        </VoiceAssistant>
+        <VoiceAssistant id="iHomeIBT58BC">
+            <name>iHomeIBT58BC</name>
+            <price>50</price>
+            <image>iHomeIBT58BC.jpg</image>
+            <manufacturer>iHome</manufacturer>
+            <condition>New</condition>
+            <discount>17.0</discount>
+            <rebate>0.0</rebate>
+        </VoiceAssistant>
+    </VoiceAssistantCatalog>
+
+    <FitnessWatchCatalog>
+        <FitnessWatch id="Garmin010-01863-20">
+            <name>Garmin010-01863-20</name>
+            <price>170</price>
+            <image>Garmin010-01863-20.jpg</image>
+            <manufacturer>Garmin</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <rebate>0.0</rebate>
+        </FitnessWatch>
+        <FitnessWatch id="SamsungSM-R500NZDAXAR">
+            <name>SamsungSM-R500NZDAXAR</name>
+            <price>270</price>
+            <image>SamsungSM-R500NZDAXAR.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <rebate>0.0</rebate>
+        </FitnessWatch>
+        <FitnessWatch id="Garmin010-01689-00">
+            <name>Garmin010-01689-00</name>
+            <price>370</price>
+            <image>Garmin010-01689-00.jpg</image>
+            <manufacturer>Garmin</manufacturer>
+            <condition>Refurbished</condition>
+            <discount>10.0</discount>
+            <rebate>0.0</rebate>
+        </FitnessWatch>
+        <FitnessWatch id="AppleMTF02LLA">
+            <name>AppleMTF02LLA</name>
+            <price>470</price>
+            <image>AppleMTF02LLA.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>80.0</discount>
+            <rebate>0.0</rebate>
+        </FitnessWatch>
+        <FitnessWatch id="AppleMTEY2LLA1">
+            <name>AppleMTEY2LLA</name>
+            <price>570</price>
+            <image>AppleMTEY2LLA.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>80.0</discount>
+            <rebate>0.0</rebate>
+        </FitnessWatch>
+        <FitnessWatch id="AppleMTEY2LLA2">
+            <name>AppleMTEY2LLA</name>
+            <price>570</price>
+            <image>AppleMTEY2LLA.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>80.0</discount>
+            <rebate>0.0</rebate>
+        </FitnessWatch>
+        <FitnessWatch id="AppleMTEY2LLA3">
+            <name>AppleMTEY2LLA</name>
+            <price>570</price>
+            <image>AppleMTEY2LLA.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>80.0</discount>
+            <rebate>0.0</rebate>
+        </FitnessWatch>
+    </FitnessWatchCatalog>
+
+    <SmartWatchCatalog>
+        <SmartWatch id="Garmin010-01989-00">
+            <name>Garmin010-01989-00</name>
+            <price>180</price>
+            <image>Garmin010-01989-00.jpg</image>
+            <manufacturer>Garmin</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <rebate>0.0</rebate>
+        </SmartWatch>
+        <SmartWatch id="SamsungSM-R820NZKAXAR">
+            <name>SamsungSM-R820NZKAXAR</name>
+            <price>280</price>
+            <image>SamsungSM-R820NZKAXAR.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <rebate>0.0</rebate>
+        </SmartWatch>
+        <SmartWatch id="Garmin010-03717-54">
+            <name>Garmin010-03717-54</name>
+            <price>380</price>
+            <image>Garmin010-03717-54.jpg</image>
+            <manufacturer>Garmin</manufacturer>
+            <condition>Refurbished</condition>
+            <discount>20.0</discount>
+            <rebate>0.0</rebate>
+        </SmartWatch>
+        <SmartWatch id="SamsungGSRF SM-R365NZKAXAR">
+            <name>SamsungGSRF SM-R365NZKAXAR</name>
+            <price>480</price>
+            <image>SamsungGSRF SM-R365NZKAXAR.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>70.0</discount>
+            <rebate>20.0</rebate>
+        </SmartWatch>
+        <SmartWatch id="SamsungSM-R830NZSAXAR">
+            <name>SamsungSM-R830NZSAXAR</name>
+            <price>580</price>
+            <image>SamsungSM-R830NZSAXAR.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <rebate>0.0</rebate>
+        </SmartWatch>
+    </SmartWatchCatalog>
+
+    <HeadPhoneCatalog>
+        <HeadPhone id="BeatsMP582LLA">
+            <name>BeatsMP582LLA</name>
+            <price>190</price>
+            <image>BeatsMP582LLA.jpg</image>
+            <manufacturer>Beats</manufacturer>
+            <condition>New</condition>
+            <discount>140.0</discount>
+            <rebate>0.0</rebate>
+        </HeadPhone>
+        <HeadPhone id="SonyWHCH700NB">
+            <name>SonyWHCH700NB</name>
+            <price>290</price>
+            <image>SonyWHCH700NB.jpg</image>
+            <manufacturer>Sony</manufacturer>
+            <condition>New</condition>
+            <discount>72.99</discount>
+            <rebate>0.0</rebate>
+        </HeadPhone>
+        <HeadPhone id="AppleMV7N2AMA">
+            <name>AppleMV7N2AMA</name>
+            <price>390</price>
+            <image>AppleMV7N2AMA.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>Refurbished</condition>
+            <discount>15.0</discount>
+            <rebate>0.0</rebate>
+        </HeadPhone>
+        <HeadPhone id="SonyMDRZX110NCB">
+            <name>SonyMDRZX110NCB</name>
+            <price>490</price>
+            <image>SonyMDRZX110NCB.jpg</image>
+            <manufacturer>Sony</manufacturer>
+            <condition>New</condition>
+            <discount>18.99</discount>
+            <rebate>0.0</rebate>
+        </HeadPhone>
+        <HeadPhone id="SonyMDRZX110B">
+            <name>SonyMDRZX110B</name>
+            <price>590</price>
+            <image>SonyMDRZX110B.jpg</image>
+            <manufacturer>Sony</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+            <rebate>0.0</rebate>
+        </HeadPhone>
+    </HeadPhoneCatalog>
+
+    <WirelessPlanCatalog>
+        <WirelessPlan  id="SprintUnlimitedBasic">
+            <name>SprintUnlimitedBasic</name>
+            <price>60.0</price>
+            <image>SprintUnlimitedBasic.png</image>
+            <manufacturer>Sprint</manufacturer>
+            <discount>0.0</discount>
+            <rebate>0.0</rebate>
+        </WirelessPlan >
+        <WirelessPlan  id="SprintUnlimitedUltimate">
+            <name>SprintUnlimitedUltimate</name>
+            <price>70.0</price>
+            <image>SprintUnlimitedUltimate.png</image>
+            <manufacturer>Sprint</manufacturer>
+            <discount>0.0</discount>
+            <rebate>0.0</rebate>
+        </WirelessPlan >
+        <WirelessPlan  id="SprintUnlimitedPremium">
+            <name>SprintUnlimitedPremium</name>
+            <price>80.0</price>
+            <image>SprintUnlimitedPremium.png</image>
+            <manufacturer>Sprint</manufacturer>
+            <discount>0.0</discount>
+            <rebate>0.0</rebate>
+        </WirelessPlan >
+        <WirelessPlan  id="MintMobile33Basic">
+            <name>MintMobile33Basic</name>
+            <price>15</price>
+            <image>MintMobile33Basic.jpg</image>
+            <manufacturer>MintMobile</manufacturer>
+            <discount>0.0</discount>
+            <rebate>0.0</rebate>
+        </WirelessPlan >
+        <WirelessPlan  id="MintMobile38Premium">
+            <name>MintMobile38Premium</name>
+            <price>20.0</price>
+            <image>MintMobile38Premium.jpg</image>
+            <manufacturer>MintMobile</manufacturer>
+            <discount>0.0</discount>
+            <rebate>0.0</rebate>
+        </WirelessPlan >
+    </WirelessPlanCatalog>
+
+    <AccessoryCatalog>
+        <accessory id="TCL32S327_HDMI_Cables">
+            <name>TCL32S327_HDMI_Cables</name>
+            <price>9.99</price>
+            <image>TCL32S327_HDMI_Cables.jpg</image>
+            <manufacturer>TCL</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <rebate>0.0</rebate>
+        </accessory>
+        <accessory id="TCL32S327_Mounts">
+            <name>TCL32S327_Mounts</name>
+            <price>99.99</price>
+            <image>TCL32S327_Mounts.jpg</image>
+            <manufacturer>TCL</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <rebate>0.0</rebate>
+        </accessory>
+        <accessory id="TCL32S327_Antennas">
+            <name>TCL32S327_Antennas</name>
+            <price>129.99</price>
+            <image>TCL32S327_Antennas.jpg</image>
+            <manufacturer>TCL</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <rebate>0.0</rebate>
+        </accessory>
+        <accessory id="SamsungUN55NU6900FXZA_HDMI_Cables">
+            <name>SamsungUN55NU6900FXZA_HDMI_Cables</name>
+            <price>129.99</price>
+            <image>TCL32S327_HDMI_Cables.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <rebate>0.0</rebate>
+        </accessory>
+        <accessory id="SamsungUN55NU6900FXZA_Mounts">
+            <name>SamsungUN55NU6900FXZA_Mounts</name>
+            <price>129.99</price>
+            <image>TCL32S327_Mounts.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <rebate>0.0</rebate>
+        </accessory>
+        <accessory id="SamsungUN55NU6900FXZA_Antennas">
+            <name>SamsungUN55NU6900FXZA_Antennas</name>
+            <price>129.99</price>
+            <image>TCL32S327_Antennas.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <rebate>0.0</rebate>
+        </accessory>
+        <accessory id="SamsungUN65NU6900FXZA_HDMI_Cables">
+            <name>SamsungUN65NU6900FXZA_HDMI_Cables</name>
+            <price>129.99</price>
+            <image>TCL32S327_HDMI_Cables.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <rebate>0.0</rebate>
+        </accessory>
+        <accessory id="SamsungUN65NU6900FXZA_Mounts">
+            <name>SamsungUN65NU6900FXZA_Mounts</name>
+            <price>129.99</price>
+            <image>TCL32S327_Mounts.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <rebate>0.0</rebate>
+        </accessory>
+        <accessory id="SamsungUN65NU6900FXZA_Antennas">
+            <name>SamsungUN65RU6900FXZA_Antennas</name>
+            <price>129.99</price>
+            <image>TCL32S327_Antennas.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <rebate>0.0</rebate>
+        </accessory>
+        <accessory id="SamsungUN65RU7100FXZA_HDMI_Cables">
+            <name>SamsungUN65RU7100FXZA_HDMI_Cables</name>
+            <price>129.99</price>
+            <image>TCL32S327_HDMI_Cables.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <rebate>0.0</rebate>
+        </accessory>
+        <accessory id="SamsungUN65RU7100FXZA_Mounts">
+            <name>SamsungUN65RU7100FXZA_Mounts</name>
+            <price>129.99</price>
+            <image>TCL32S327_Mounts.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <rebate>0.0</rebate>
+        </accessory>
+        <accessory id="SamsungUN65RU7100FXZA_Antennas">
+            <name>SamsungUN65RU7100FXZA_Antennas</name>
+            <price>129.99</price>
+            <image>TCL32S327_Antennas.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <rebate>0.0</rebate>
+        </accessory>
+    </AccessoryCatalog>
+
+
+
+
+
+
+</ProductCatalog>
