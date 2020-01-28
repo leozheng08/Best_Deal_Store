@@ -276,3 +276,8 @@ class surprise.prediction_algorithms.algo_base.AlgoBase
 
 ### Mongo review
 ![image](https://user-images.githubusercontent.com/48393773/73148368-9e5bda00-4081-11ea-96bc-8ea33593a9e7.png)
+
+### Output
+![image](https://user-images.githubusercontent.com/48393773/73282236-de70a900-41b6-11ea-92d3-bff02d52ece6.png)
+![image](https://user-images.githubusercontent.com/48393773/73282238-e03a6c80-41b6-11ea-81b9-b47a072228c1.png)
+![image](https://user-images.githubusercontent.com/48393773/73282242-e2043000-41b6-11ea-83f3-0655156cea4f.png)
